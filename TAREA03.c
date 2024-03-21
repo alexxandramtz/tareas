@@ -5,7 +5,7 @@ int main(int argc, char *argv[]) {
 	int tabla;
 	int i;
 	
-	printf("\n digite el numero de tabla que desea ");
+	printf("Digite el numero de tabla que desea: \n ");
 	scanf("%i",&tabla);
 	
 	for(i=1; i<=10;i++){
